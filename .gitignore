@@ -1,0 +1,11 @@
+# Ignore notes.md
+notes.md
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Parcel cache
+.parcel-cache/
+
+# Ignore build output
+dist/
